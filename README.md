@@ -1,4 +1,3 @@
-asakusafw-jobqueue-server
-=========================
+Asakusa JobQueue Server
 
-Asakusa Framework JobQueue Server
+A JobQueue Server to manage the queue.
